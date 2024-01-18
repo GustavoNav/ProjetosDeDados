@@ -1,17 +1,43 @@
-# ProjetosDeDados
-Esse repositório tem como objetivo servir para armazenamento de projetos de dados que eu venha a desenvolver.
+# Projetos de Dados
 
+Este repositório contém meus projetos relacionados à área de Dados. Todas as tecnologias mencionadas podem ser encontradas nos Links úteis.
 
-# Projetos
-## Streaming De Video
-Dados     - Está todo o conjunto de dados e alterações feitas por mim. <br>
-Bloxplot  - Código em R para construir o bloxplot para análise. <br>
-dashboard - O dashboard construido em Power BI Desktop para análise. <br>
-musicas   - Arquivo de Python feito em jupyter notebook para análise exploratória e Tranformação e Limpeza de Dados. <br>
-Relatorio - Arquivo PDF com todas as explicações do projeto. <br>
+### Projeto 1 - Streaming de Música
+Este projeto trabalha com dados de streaming de música, coletados de várias plataformas. Durante o projeto, realizo Análise Exploratória, Limpeza e Transformação de Dados, além de extrair Insights.
 
-## Linkedin Data Engineer Job Postings
-Dados     - Está todo o conjunto de dados e alterações feitas. <br>
-dashboard - O dashboard construido em Power BI Desktop para Análise. <br>
-Jupyter   - Arquivo de Python feito em jupyter notebook. <br>
-Relatorio - Arquivo PDF com todas as explicações do projeto. <br>
+Mais detalhes podem ser encontrados no Relatório.
+
+Dataset:  
+- [Kaggle](https://www.kaggle.com/datasets/thedevastator/streaming-activity-dataset)
+
+Descrição dos Arquivos:
+
+- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+- **Dados** - Contém todo o conjunto de dados e as alterações feitas por mim.
+- **Boxplot** - Código em R para construir o boxplot para análise.
+- **Dashboard** - O dashboard construído em Power BI Desktop para análise.
+- **Músicas** - Arquivo Python feito em Jupyter Notebook para Análise Exploratória e Transformação e Limpeza de Dados.
+
+### Projeto 2 - Posts no LinkedIn
+Este projeto trabalha com dados de posts de vagas de emprego para Engenheiros de Dados. Durante o projeto, realizo Análise Exploratória, Limpeza e Transformação de Dados, além de extrair Insights.
+
+Mais detalhes podem ser encontrados no Relatório.
+
+Dataset:
+- [Kaggle](https://www.kaggle.com/datasets/asaniczka/linkedin-data-engineer-job-postings)
+
+Descrição dos Arquivos:
+
+- **Dados** - Contém todo o conjunto de dados e as alterações feitas.
+- **Dashboard** - O dashboard construído em Power BI Desktop para análise.
+- **Jupyter** - Arquivo Python feito em Jupyter Notebook.
+- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+
+## Links úteis
+
+ - [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494?ocid=ORSEARCH_Bing)
+ - [Python 3](https://www.python.org/)
+ - [Anaconda](https://www.anaconda.com/)
+ - [Jupyter Notebook](https://jupyter.org/)
+ - [Linguagem R](https://www.r-project.org/)
+ - [RStudio](https://www.rstudio.com/categories/rstudio-ide/)
