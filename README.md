@@ -28,10 +28,10 @@ Dataset:
 
 Descrição dos Arquivos:
 
+- **Relatório** - Arquivo PDF com todas as explicações do projeto.
 - **Dados** - Contém todo o conjunto de dados e as alterações feitas.
 - **Dashboard** - O dashboard construído em Power BI Desktop para análise.
 - **Jupyter** - Arquivo Python feito em Jupyter Notebook.
-- **Relatório** - Arquivo PDF com todas as explicações do projeto.
 
 ## Links úteis
 
