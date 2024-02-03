@@ -33,6 +33,22 @@ Descrição dos Arquivos:
 - **Dashboard** - O dashboard construído em Power BI Desktop para análise.
 - **Jupyter** - Arquivo Python feito em Jupyter Notebook.
 
+### Projeto 3 - Perfil de Clientes (Clusterização)
+Este projeto utiliza dados de perfis de clientes com o objetivo de preparar os dados para análises. Durante o processo é necessário passar por etapas de Análise Exploratória, Limpeza e transformação dos dados, Clusterização e por fim construção de Análises em dashboards.
+
+Mais detalhes podem ser encontrados no Relatório.
+
+Dataset:
+- [Kaggle]([https://www.kaggle.com/datasets/asaniczka/linkedin-data-engineer-job-postings](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign))
+
+Descrição dos Arquivos:
+
+- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+- **Dados** - Contém todo o conjunto de dados e as alterações feitas. Existe 2 arquivos o original e o preparado para análises.
+- **Dashboard** - O dashboard construído em Power BI Desktop para análise. Utilizado principalmente para finalização do projeto.
+- **Jupyter** - Arquivo Python feito em Jupyter Notebook. Onde é feita a clusterização e ocorre grande parte do processo de preparação dos dados.
+
+
 ## Links úteis
 
  - [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494?ocid=ORSEARCH_Bing)
