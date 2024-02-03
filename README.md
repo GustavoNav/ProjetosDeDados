@@ -57,3 +57,4 @@ Descrição dos Arquivos:
  - [Jupyter Notebook](https://jupyter.org/)
  - [Linguagem R](https://www.r-project.org/)
  - [RStudio](https://www.rstudio.com/categories/rstudio-ide/)
+ - [kaggle](https://www.kaggle.com/)
