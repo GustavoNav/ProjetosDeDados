@@ -39,7 +39,7 @@ Este projeto utiliza dados de perfis de clientes com o objetivo de preparar os d
 Mais detalhes podem ser encontrados no Relatório.
 
 Dataset:
-- [Kaggle]([https://www.kaggle.com/datasets/asaniczka/linkedin-data-engineer-job-postings](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign))
+- [Kaggle](https://www.kaggle.com/datasets/rodsaldanha/arketing-campaign)
 
 Descrição dos Arquivos:
 
