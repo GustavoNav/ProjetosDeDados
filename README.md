@@ -12,7 +12,7 @@ Dataset:
 
 Descrição dos Arquivos:
 
-- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+- **Relatorio** - Arquivo PDF com todas as explicações do projeto.
 - **Dados** - Contém todo o conjunto de dados e as alterações feitas por mim.
 - **Boxplot** - Código em R para construir o boxplot para análise.
 - **Dashboard** - O dashboard construído em Power BI Desktop para análise.
@@ -28,7 +28,7 @@ Dataset:
 
 Descrição dos Arquivos:
 
-- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+- **Relatorio** - Arquivo PDF com todas as explicações do projeto.
 - **Dados** - Contém todo o conjunto de dados e as alterações feitas.
 - **Dashboard** - O dashboard construído em Power BI Desktop para análise.
 - **Jupyter** - Arquivo Python feito em Jupyter Notebook.
@@ -43,7 +43,7 @@ Dataset:
 
 Descrição dos Arquivos:
 
-- **Relatório** - Arquivo PDF com todas as explicações do projeto.
+- **Relatorio** - Arquivo PDF com todas as explicações do projeto.
 - **Dados** - Contém todo o conjunto de dados e as alterações feitas. Existe 2 arquivos o original e o preparado para análises.
 - **Dashboard** - O dashboard construído em Power BI Desktop para análise. Utilizado principalmente para finalização do projeto.
 - **Jupyter** - Arquivo Python feito em Jupyter Notebook. Onde é feita a clusterização e ocorre grande parte do processo de preparação dos dados.
