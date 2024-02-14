@@ -49,6 +49,21 @@ Descrição dos Arquivos:
 - **Jupyter** - Arquivo Python feito em Jupyter Notebook. Onde é feita a clusterização e ocorre grande parte do processo de preparação dos dados.
 
 
+### Projeto 4 - Yellow Fever in Brazil 
+
+This project was created with the objective of analyzing and understanding the situation of Brazil in relation to Yellow Fever, using a dataset from the Ministry of Health.
+
+Dataset:
+- [govbr](https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/f/febre-amarela)
+
+File Description:
+
+- **Report** - PDP file with all the explanations and processes. 
+- **Data** - Contains the original and modified dataset. 
+- **Dashboard** - Built on the dashboard, last stage of the project. 
+- **Jupyter** - Documents the data preparation process.
+
+
 ## Links úteis
 
  - [Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494?ocid=ORSEARCH_Bing)
